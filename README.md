@@ -29,5 +29,5 @@ Feel free to reach out! Let’s build something amazing together.
 
 ### 🌐 Let's Connect
 
-- **LinkedIn:** [Venkitesh S Anand](#https://www.linkedin.com/in/venkitesh-s-anand-858ba418a/)
+- **LinkedIn:** [Venkitesh S Anand](https://www.linkedin.com/in/venkitesh-s-anand-858ba418a/)
 - **Email:** [venkiteshsanand1920@gmail.com](mailto:venkiteshsanand1920@gmail.com)
